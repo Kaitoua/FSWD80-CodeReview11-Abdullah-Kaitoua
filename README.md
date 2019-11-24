@@ -1,1 +1,9 @@
-#FSWD80-CodeReview11-Abdullah-Kaitoua
+user
+
+email:abd@gmx.com
+password:123123
+
+------
+Admin
+email:abdullah@gmx.com
+password:123123
