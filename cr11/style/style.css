@@ -1,4 +1,6 @@
-
+ #map {
+        height: 100%;
+      }
 .navbar-brand {
     margin-left: 200px !important;
 }
